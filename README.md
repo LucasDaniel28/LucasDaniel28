@@ -95,7 +95,7 @@ Ver repositório
 </table> <p align="center">
   <a href="https://github.com/LucasDaniel28"><img src="https://img.shields.io/badge/Ver%20todos%20os%20dados-do%20perfil%20do%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Ver perfil do GitHub" /></a>
 </p> <h2 align="center">Contribuições</h2> <p align="center">
-  <img src="https://raw.githubusercontent.com/LucasDaniel28/LucasDaniel28/output/github-contribution-grid-snake-dark.svg" alt="Animação suave das contribuições" />
+  <img src="https://raw.githubusercontent.com/LucasDaniel28/LucasDaniel28/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animação suave das contribuições" />
 </p> <!--
 NOTAS DE CONFIGURAÇÃO
 
