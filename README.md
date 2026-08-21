@@ -12,7 +12,6 @@ Perfil
 
 Atuo no desenvolvimento de produtos digitais com foco em qualidade de código, clareza arquitetural e experiência do usuário. Gosto de trabalhar na interseção entre engenharia e produto, transformando requisitos complexos em soluções consistentes, observáveis e fáceis de evoluir.
 
-Atualmente, estou aprofundando meus conhecimentos em [TECNOLOGIA OU ÁREA ATUAL] e aberto(a ) a colaborar em projetos relacionados a [TIPO DE PROJETO OU DOMÍNIO].
 
 <p align="center">
 <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
@@ -51,40 +50,6 @@ Atualmente, estou aprofundando meus conhecimentos em [TECNOLOGIA OU ÁREA ATUAL]
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="420" alt="Foguete decolando" />
 </p>
 
-Projetos selecionados
-
-[NOME DO PROJETO 1]
-
-
-Uma frase objetiva explicando o produto, o problema resolvido e o impacto gerado.
-
-Tecnologias: TypeScript · React · Node.js · PostgreSQL
-
-Ver repositório · Ver demonstração
-
-
-
-
-[NOME DO PROJETO 2]
-
-
-Uma descrição curta, técnica e orientada a resultado sobre o seu segundo projeto mais relevante.
-
-Tecnologias: Python · FastAPI · Docker · MongoDB
-
-Ver repositório · Ver demonstração
-
-
-
-
-[NOME DO PROJETO 3]
-
-
-Use este espaço para destacar uma biblioteca, estudo de caso, produto ou contribuição open source.
-
-Tecnologias: Java · Spring · PostgreSQL · AWS
-
-Ver repositório
 
 <h2 align="center">Atividade no GitHub</h2> <table align="center">
 <tr>
